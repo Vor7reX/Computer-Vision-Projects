@@ -2,6 +2,8 @@
 
 Questa è una raccolta di script Python interattivi che utilizzano le librerie **OpenCV** e **MediaPipe** per il rilevamento in tempo reale di mani, volto e gesti tramite la webcam.
 
+![Esempio di Rilevamento Mano](assets/Hand_output.png)
+
 ---
 
 ## 📋 Elenco dei Progetti
